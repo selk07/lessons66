@@ -10,15 +10,11 @@ npm install
 ```
  npm run express
 ```
-3. Go to localhost.
+3. Using route "/movies" for cursors 
 ```
 http://localhost:8080/movies
 ```
-4. Using route "/movies" for cursors 
-```
-http://localhost:8080/movies
-```
-5. Using route "/average-genres" for aggregation query. 
+4. Using route "/average-genres" for aggregation query. 
 This query returns the genres and their average rating
 ```
 http://localhost:8080/average-genres
